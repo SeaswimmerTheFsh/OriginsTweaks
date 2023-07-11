@@ -1,5 +1,14 @@
 {
     "type": "origins:multiple",
+    "name": "Double Jump",
+    "description": "Even though the Avian specices lost their ability to fly long ago, they can still launch themselves a short distance into the air.",
+    "badges": [
+        {
+            "type": "origins:tooltip",
+            "sprite": "origins:textures/gui/badge/active.png",
+            "text": "Press your jump key to jump again in midair."
+        }
+    ],
     "resource": {
         "type": "origins:resource",
         "min": 0,
